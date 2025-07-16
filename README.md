@@ -14,8 +14,8 @@
 
 ## Contact Me
 Feel free to connect with me for general discussion or bug fixes.
-Github: [github.com/ThatTamer](https://github.com/ThatTamer)
-Discord: ThatTamer
+- Github: [github.com/ThatTamer](https://github.com/ThatTamer)
+- Discord: ThatTamer
 
 ---
 
