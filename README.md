@@ -1,5 +1,3 @@
-# 👋 Hello, I'm ThatTamer!
-
 🎓 High school senior | 💻 Aspiring Computer Science & Cybersecurity major  
 
 ---
