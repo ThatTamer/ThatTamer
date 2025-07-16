@@ -1,4 +1,4 @@
-#👋 Hello, I'm Caden!
+# 👋 Hello, I'm Caden!
 
 > 🎓 High school senior
 
