@@ -1,7 +1,9 @@
 #👋 Hello, I'm Caden!
 
-> 🎓 High school senior 
+> 🎓 High school senior
+
 > 💻 Aspiring Computer Science & Cybersecurity major
+
 > 🛠️ State Robotics Champion
 
 ---
