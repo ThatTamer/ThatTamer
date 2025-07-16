@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Caden!
+## 👋 Hello, I'm Caden!
 
 > 🎓 High school senior
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 - Passionate about cybersecurity, ethical hacking, and systems-level programming.
 - Actively applying teamwork and software logic to foster healthy competition, particularly in robotics.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 💬 Contact Me
+### 💬 Contact Me
 Feel free to connect with me for general discussion or bug fixes.
 - Github: [github.com/ThatTamer](https://github.com/ThatTamer)
 - Discord: ThatTamer
