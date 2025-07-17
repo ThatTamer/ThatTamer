@@ -23,6 +23,7 @@
 
 ### 🚀 Projects
 - [CS2 Marker Plugin](https://github.com/ThatTamer/CS2-Marker)
+- [CS2 Marker Plugin](https://github.com/ThatTamer/ProgrammingAgainstCancer)
 
 > For any issues related to these projects, please feel free to contact me via Github or Discord.
 
