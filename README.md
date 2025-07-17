@@ -1,5 +1,4 @@
 ## 👋 Hello, I'm Caden!
-
 <h3 align="left">🧠 About Me</h2>
 
 - 💻 Passionate about cybersecurity, ethical hacking, and systems-level programming.
