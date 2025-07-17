@@ -22,8 +22,8 @@
 # 
 
 ### 🚀 Projects
-- [CS2 Marker Plugin](https://github.com/ThatTamer/CS2-Marker)
-- [Programming Against Cancer](https://github.com/ThatTamer/ProgrammingAgainstCancer)
+- [Programming Against Cancer](https://github.com/ThatTamer/ProgrammingAgainstCancer) - An open-source initiative to support children undergoing cancer treatments.
+- [CS2 Marker Plugin](https://github.com/ThatTamer/CS2-Marker) - A light-weight, open-source JB Marker plugin.
 
 > For any issues related to these projects, please feel free to contact me via Github or Discord.
 
