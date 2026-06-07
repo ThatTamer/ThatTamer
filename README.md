@@ -22,7 +22,6 @@
 # 
 
 ### 🚀 Projects
-- [Programming Against Cancer](https://github.com/ThatTamer/ProgrammingAgainstCancer) - An open-source initiative to support children undergoing cancer treatments.
 - [CS2 Admin Menu Plugin](https://github.com/ThatTamer/CS2AdminMenu) - A lightweight, open-source, and customizable CS2 Admin Menu.
 - [CS2 Marker Plugin](https://github.com/ThatTamer/CS2-Marker) - A lightweight, open-source JB Marker plugin.
 
