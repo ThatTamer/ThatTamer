@@ -2,7 +2,7 @@
 <h3 align="left">🧠 About Me</h2>
 
 - 💻 Passionate about cybersecurity, ethical hacking, and systems-level programming.
-- 🎓 Aspiring Computer Science & Cybersecurity major. 
+- 🎓 Aspiring Computer Science & Cybersecurity major.
 - 🛠️ Actively applying teamwork and software logic to foster healthy competition, particularly in robotics.
 
 > Drawn to anything that deals with **Security, Software Design, and Human Impact**.
