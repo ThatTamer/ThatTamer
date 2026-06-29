@@ -21,8 +21,8 @@
 # 
 
 ### 🚀 Projects
-- [CS2 Admin Menu Plugin](https://github.com/ThatTamer/CS2AdminMenu) - A lightweight, open-source, and customizable CS2 Admin Menu.
-- [CS2 Marker Plugin](https://github.com/ThatTamer/CS2-Marker) - A lightweight, open-source JB Marker plugin.
+- [CS2 Admin Menu Plugin](https://github.com/ThatTamer/CS2AdminMenu) - A lightweight, customizable admin plugin for Counter-Strike 2 servers. Handles player management (kick, ban, mute, teleport) and live game-state control (round and map management). Open source, built in C# utilizing CounterStrikeSharp.
+- [CS2 Marker Plugin](https://github.com/ThatTamer/CS2-Marker) - An open-source in-game UI overlay plugin for Jailbreak-mode Counter-Strike 2 servers, rendering visual waypoint and zone markers for gameplay. Built in C# utilizing CounterStrikeSharp.
 
 > For any issues related to these projects, please feel free to contact me via Github or Discord.
 
