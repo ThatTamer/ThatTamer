@@ -1,8 +1,7 @@
 ## 👋 Hello, I'm Caden!
 <h3 align="left">🧠 About Me</h2>
 
-- 💻 Passionate about cybersecurity, ethical hacking, and systems-level programming.
-- 🎓 Computer Science Major @ Georgia Southern
+- 🎓 CS Major @ Georgia Southern University, focused on systems-level programming and security.
 - 🛠️ Actively applying teamwork and software logic to foster healthy competition, particularly in robotics.
 
 > Drawn to anything that deals with **Security, Software Design, and Human Impact**.
