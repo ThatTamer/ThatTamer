@@ -4,7 +4,7 @@
 - 🎓 CS Major @ Georgia Southern University, focused on systems-level programming and security.
 - 🛠️ Actively applying teamwork and software logic to foster healthy competition, particularly in robotics.
 
-> Drawn to anything that deals with **Security, Software Design, and Human Impact**.
+> Drawn to anything that deals with **Security and Software Design**.
 
 # 
 
